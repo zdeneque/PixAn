@@ -6,7 +6,7 @@ CSV and use them for your work.
 # Purpose
 Extract numerical data from graphs or charts in images
 
-#Features
+# Features
 - get coordinates of points on a curve in the image. Coordinates are returned in real physical dimensions as defined by user
 - support jpg, png, gif
 - store data of each curve from an image in a seperate csv file
